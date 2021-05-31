@@ -10,12 +10,12 @@ Unified validation of HMT editing in Venetus B MS.
     - *Iliad*:  `urn:cts:greekLit:tlg0012.tlg001.msB:`  with identifiers like `9.1` for *book/line*
     - *metrical summaries*: `urn:cts:greekLit:tlg7000.tlg001.msB:`
 - **MS pages**: collection `urn:cite2:hmt:msB.v1:` with identifiers like `1r` identifying a single *page*
-- **images**: collection `urn:cite2:hmt:msB.v1:` with identifiers like `vb_114v_115r` identifying images of *bifolio spreads*
+- **images**: collection `urn:cite2:hmt:vbbifolio.v1:` with identifiers like `vb_114v_115r` identifying images of *bifolio spreads*
 
 
 ## Coverage in books 8-10
 
-- Book 8:  **gap** 8.71-8.565.
+- Book 8:  **gap** 8.71-8.565 beginning on 104v ([ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
 - Book 9:  **complete draft**.
 - Book 10: **gap** from *Iliad* 10.362-10.435.
  
