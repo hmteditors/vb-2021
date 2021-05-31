@@ -1,0 +1,4 @@
+urn|file|converter|diplomatic|normalized|orthography
+urn:cts:greekLit:tlg5026.msB.hmt:8|msb_scholia08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|literaryGreek()
+urn:cts:greekLit:tlg5026.msB.hmt:9|msb_scholia09.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|literaryGreek()
+urn:cts:greekLit:tlg5026.msB.hmt:10|msb_scholia10.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|literaryGreek()
