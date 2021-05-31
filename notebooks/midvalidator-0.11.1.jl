@@ -31,6 +31,7 @@ begin
 	#using Lycian
 	using Markdown
 	using Orthography
+	using ManuscriptOrthography
 	using PolytonicGreek
 	Pkg.status()
 end
@@ -526,7 +527,7 @@ end
 # ╟─ea1b6e21-7625-4f8f-a345-8e96449c0757
 # ╟─fd401bd7-38e5-44b5-8131-dbe5eb4fe41b
 # ╟─066b9181-9d41-4013-81b2-bcc37878ab68
-# ╠═5cba9a9c-74cc-4363-a1ff-026b7b3999ea
+# ╟─5cba9a9c-74cc-4363-a1ff-026b7b3999ea
 # ╟─71d7a180-5742-415c-9013-d3d1c0ca920c
 # ╟─59fbd3de-ea0e-4b96-800c-d5d8a7272922
 # ╟─1814e3b1-8711-4afd-9987-a41d85fd56d9
