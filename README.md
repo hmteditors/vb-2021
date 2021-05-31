@@ -8,7 +8,7 @@ Unified validation of HMT editing in Venetus B MS.
 - **texts**
     - scholia: `urn:cts:greekLit:tlg5026.msB.hmt:` with passage identifiers like `9.115r_1` for *book/scholion*
     - *Iliad*:  `urn:cts:greekLit:tlg0012.tlg001.msB:`  with identifiers like `9.1` for *book/line*
-    - *metrical summaries*: `urn:cts:greekLit:tlg7000.tlg001.msB:` with identifers like `9` for the book of the *Iliad* (= line of the 24-line poem)
+    - *metrical summaries*: `urn:cts:greekLit:tlg7000.tlg001.msB:`
 - **MS pages**: collection `urn:cite2:hmt:msB.v1:` with identifiers like `1r` identifying a single *page*
 - **images**: collection `urn:cite2:hmt:msB.v1:` with identifiers like `vb_114v_115r` identifying images of *bifolio spreads*
 
