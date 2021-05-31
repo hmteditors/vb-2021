@@ -6,10 +6,10 @@ Unified validation of HMT editing in Venetus B MS.
 
 
 - texts
-    - scholia
-    - *Iliad*
-- MS pages: collection `urn:cite2:hmt:msB.v1:` with identifiers like `1r`
-- images: 
+    - scholia: `urn:cts:greekLit:tlg5026.msB.hmt:` with passage identifiers like `9.115r_1` for *book/scholion*
+    - *Iliad*:  `urn:cts:greekLit:tlg0012.tlg001.msB:`  with identifiers like `9.1` for *book/line*
+- MS pages: collection `urn:cite2:hmt:msB.v1:` with identifiers like `1r` identifying a single *page*
+- images: collection `urn:cite2:hmt:msB.v1:` with identifiers like `vb_114v_115r` identifying images of *bifolio spreads*
 
 
 ## Coverage in books 8-10
