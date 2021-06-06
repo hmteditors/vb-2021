@@ -1,6 +1,15 @@
 # vb-2021
 
-Unified validation of HMT editing in Venetus B MS.
+Unifying validated editions of *Iliad* 8-10 with *scholia* in the Venetus B MS.
+
+## Current coverage
+
+- Book 8:  8.1-8.70 complete draft; **lacking** 8.71-8.565 beginning on 104v ([ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
+- Book 9:  **complete draft**.
+- Book 10: **gap** from *Iliad* 10.362-10.435.
+ 
+
+
 
 ## URNs: quick reference
 
@@ -13,9 +22,11 @@ Unified validation of HMT editing in Venetus B MS.
 - **images**: collection `urn:cite2:hmt:vbbifolio.v1:` with identifiers like `vb_114v_115r` identifying images of *bifolio spreads*
 
 
-## Coverage in books 8-10
 
-- Book 8:  **gap** 8.71-8.565 beginning on 104v ([ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
-- Book 9:  **complete draft**.
-- Book 10: **gap** from *Iliad* 10.362-10.435.
- 
+
+ ## Previous editions
+
+
+ A complete edition of book 8 was published by Wilhelm Dindorf in volume 3 of his *Scholia Graeca in Iliadem* series (available as pdf [here](http://www.homermultitext.org/pd-pdfs/Dindorf-v3.pdf)).
+
+Hartmut Erbse published a selection of the scholia in his *Scholia Vetera in Iliadem*.  The text of Erbse's edition has been made available by the WordHoard project.  The book 8 selections are included in the `reference` directory in a readable HTML format.
