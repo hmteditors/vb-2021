@@ -1,6 +1,3 @@
-name = "MID validator notebook"
-version = "0.13.0"
-
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
@@ -14,12 +11,8 @@ EditionBuilders = "2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f"
 EditorsRepo = "3fa2051c-bcb6-4d65-8a68-41ff86d56437"
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 ManuscriptOrthography = "c7d01213-112e-44c9-bed3-ac95fd3728c7"
-Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
 Orthography = "0b4c9448-09b0-4e78-95ea-3eb3328be36d"
-Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
-PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
-PooledArrays = "2dfb63ee-cc39-5dd5-95bd-886bf059d720"
 
 [compat]
 CSV = "0.8"
@@ -35,5 +28,4 @@ EditorsRepo = "0.11"
 HTTP = "0.9"
 ManuscriptOrthography = "0.1"
 Orthography = "0.8"
-PlutoUI = "0.7"
 PolytonicGreek = "0.12"
