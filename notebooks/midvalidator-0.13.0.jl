@@ -301,7 +301,7 @@ function orthography()
 	if isempty(surface)
 		md""
 	else
-	
+
 		textconfig = citation_df(editorsrepo())
 		sdse = EditorsRepo.surfaceDse(editorsrepo(), Cite2Urn(surface))
 		
@@ -309,13 +309,28 @@ function orthography()
 		for row in eachrow(sdse)
 			tidy = EditorsRepo.baseurn(row.passage)
 			ortho = orthographyforurn(textconfig, tidy)
-			chunks = normednodetext(editorsrepo(), row.passage) |> split
-			html = []
-			for chunk in chunks
-				push!(html, formatToken(ortho, chunk))
+			#msg = string(tidy, " -> ", ortho)
+			#println(msg)
+			
+			if isnothing(ortho)
+				push!(htmlrows("<p><b>No orthography configured</b> for $(row.passage)"))
+				
+				
+			else
+				
+					
+				msg = string(passagecomponent(row.passage), " ", normednodetext(editorsrepo(), row.passage))
+				println(msg)
+
+				chunks = normednodetext(editorsrepo(), row.passage) |> split
+				html = []
+				for chunk in chunks
+					push!(html, formatToken(ortho, chunk))
+				end
+				htmlrow =  string("<p><b>$(tidy.urn)</b> ", join(html," "), "</p>")
+				push!(htmlrows,htmlrow)
+					
 			end
-			htmlrow =  string("<p><b>$(tidy.urn)</b> ", join(html," "), "</p>")
-			push!(htmlrows,htmlrow)
 		end
 		HTML(join(htmlrows,"\n"))
 	end
@@ -445,7 +460,7 @@ end
 # ╟─5cba9a9c-74cc-4363-a1ff-026b7b3999ea
 # ╟─71d7a180-5742-415c-9013-d3d1c0ca920c
 # ╟─59fbd3de-ea0e-4b96-800c-d5d8a7272922
-# ╟─3cb683e2-5350-4262-b693-0cddee340254
+# ╠═3cb683e2-5350-4262-b693-0cddee340254
 # ╟─1814e3b1-8711-4afd-9987-a41d85fd56d9
 # ╟─3dd9b96b-8bca-4d5d-98dc-a54e00c75030
 # ╟─ec0f3c61-cf3b-4e4c-8419-176626a0888c
