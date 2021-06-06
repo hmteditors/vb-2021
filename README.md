@@ -4,9 +4,11 @@ Unifying validated editions of *Iliad* 8-10 with *scholia* in the Venetus B MS.
 
 ## Current coverage
 
+
+
 - Book 8:  8.1-8.70 complete draft; **lacking** 8.71-8.565 beginning on 104v ([ICT](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_104v_105r))
 - Book 9:  **complete draft**.
-- Book 10: **gap** from *Iliad* 10.362-10.435.  This falls on folios 137-138.
+- Book 10: **gap** from *Iliad* 10.362-10.435 (folios 137-138); on folios 140v and 141r, *scholia* have been indexed but not edited.
  
 
 
