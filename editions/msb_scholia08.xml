@@ -609,8 +609,18 @@
               μαθήματα ἐν ἑαυτῇ ἀπομάττεται  ⁑</p>
             </div>
           </div>
-
-
+          <div n="104v_1" type="scholion">
+            <div n="lemma">
+              <p><num value="1">α</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.72</p>
+            </div>
+            <div n="comment">
+              <p>TEXT OF SCHOLION 1 on 104v</p>
+            </div>
+          </div>
+         
 
         </body>
       </text>
