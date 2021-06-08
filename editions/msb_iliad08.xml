@@ -7,6 +7,8 @@
         <title>Iliad</title>
         <editor>Stephanie Lindeborg</editor>
         <editor>Brian Clark</editor>
+        <editor>Rose Kaczmarek</editor>
+        <editor>Anne-Catherine</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -116,6 +118,35 @@
           <l n="72">ἕλκε δὲ μέσσα λαβὼν: ῥέπε δ' αἴσιμον ἦμαρ Ἀχαιῶν:</l>
           <l n="73">αἱ μὲν Ἀχαιῶν κῆρες, ἐπὶ χθονὶ πουλυβοτείρῃ</l>
           <l n="74">ἑζέσθηω: Τρώων δὲ πρὸς οὐρανὸν εὐρὺν ἄερθεν:</l>
+          <l n="75">αὐτός δ' ἐξ <placeName n="urn:cite2:hmt:place.v1:place89">Ἴδης</placeName> μεγάλ' ἔκτυπε: δαιόμενον δὲ</l>
+         <l n="76">ἧκε σέλας μετὰ λαὸν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs>: οἱ δὲ ἰδόντες</l>
+         <l n="77">θάμβησαν: καὶ πάντας ὑπo χλωρὸν δέος εἷλεω:</l>
+          <l n="78">ἔνθ᾽ οὔτ᾽ <persName n="urn:cite2:hmt:pers.v1:pers287">Ἰδομενεὺς</persName> τλῆ μίμνειν, οὔτ᾽ <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνων</persName>:</l>
+         <l n="79">οὔτε δύ᾽ Αἴαντες μενέτην θεράποντες <persName
+         n="urn:cite2:hmt:pers.v1:pers83">Ἄρηος</persName>:</l> /*we're not sure what aiantes is*/
+         <l n="80"><persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> οἶος ἔμιμνε Γερήνιος: οὖρος <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs></l>
+         <l n="81">οὔ τι ἑκὼν: ἀλλ' ἵππος ἐτείρετο, τὸν βάλεν ἰῷ,</l>
+         <l n="82">δῖος <persName n="urn:cite2:hmt:pers.v1:pers129">Ἀλέξανδρος</persName> <persName n="urn:cite2:hmt:pers.v1:pers94">Ἑλένης</persName> πόσις ἠϋκόμοιο</l>
+         <l n="83">ἄκρην κακ κορυφὴν, ὅθι τε πρῶται τρίχες ἵππων</l>
+         <l n="84">κρανίῳ ἐμπεφύασι: μάλιστα δὲ καίριόν ἐστιν:</l>
+         <l n="85">ἀλγήσας δ' ἀνέπαλτο: βέλος δ' εἰς ἐγκέφαλον δῦ:</l>
+         <l n="86">σὺν δ' ἵππους ἐτάραξε κυλινδόμενος περὶ χαλκῷ:</l>
+         <l n="87">ὄφρ' ὁ γέρων ἵπποιο παρηορίας ἀπέτεμνε</l>
+         <l n="88">φασγάνῳ ἀΐσσων, τόφρ' <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName> ὠκέες ἵπποι</l>
+         <l n="89">ἦλθον ἀν' ἰωχμὸν: θρασὺν ἡνίοχον φέροντες</l>
+         <l n="90"><persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορα</persName>: καὶ νύ κεν ἔνθ' ὁ γέρων ἀπο θυμὸν ὄλεσσεν,</l>
+         <l n="91">εἰ μὴ ἂρ ὀξὺ νόησε βοὴν ἀγαθὸς <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName>:</l>
+         <l n="92">σμερδαλέον δ' ἐβόησεν ἐποτρύνων <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσῆα</persName>:</l>
+         <l n="93">διογενὲς Λαερτιάδη πολυμήχαν' <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεῦ</persName>:</l>
+         <l n="94">πῇ φεύγεις μετα νῶτα βαλὼν, κακὸς ὣς ἐν ὁμίλῳ:</l>
+         <l n="95">μή τις τοι φεύγοντι μεταφρένῳ ἐν δόρυ πήξῃ:</l>
+         <l n="96">ἀλλὰ μέν' ὄφρα γέροντος ἀπώσομεν ἄγριον ἄνδρα:</l>
+         <l n="97">ὣς ἔφατ'. οὐδ' ἐσάκουσε πολύτλας δῖος <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>:</l>
+         <l n="98">ἀλλὰ παρήϊξεν κοίλας ἐπὶ νῆας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs>:</l>
+         <l n="99"><persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδης</persName> δ' αὐτός περ ἐὼν, προμάχοισιν ἐμίχθη:</l>
+         <l n="100">στῆ δὲ πρόσθ' ἵππων <persName n="urn:cite2:hmt:pers.v1:pers117">Νηληϊάδαο</persName> γέροντος:</l>
+
+
       </div>
     </body>
   </text>
