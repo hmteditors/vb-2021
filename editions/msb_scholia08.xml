@@ -763,21 +763,10 @@
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.97</p>
           </div>
           <div n="comment">
-            <p>  ⁑</p>
+            <p> οὐκ ᾔσθετο ὑπὸ τοῦ θορύβου, ἢ οὐκ ἐπείσθη διὰ τὸν καιρόν: φεύγει γὰρ σὺν Αἴαντι καὶ θεομαχεῖν οὐ θέλει: πῶς γὰρ δειλὸς ὁ μετὰ πάντας φεύγων: οὐ γὰρ ἂν Διομήδης τοῦτον μόνον ἐκάλει ⁑</p>
           </div>
         </div>
         
-        <div n="105r_1" type="scholion">
-         <div n="lemma">
-           <p><num value="14">ιδ</num></p>
-         </div>
-         <div n="ref">
-           <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.97</p>
-         </div>
-         <div n="comment">
-           <p>  ⁑</p>
-         </div>
-       </div>
        <div n="105r_2" type="scholion">
          <div n="lemma">
            <p><num value="15">ιε</num></p>
@@ -786,7 +775,7 @@
            <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.101</p>
          </div>
          <div n="comment">
-           <p>  ⁑</p>
+           <p> τὰ μὲν πράγματα τάχιστα γέγονεν: ἡ δὲ τῶν λόγων σχολὴ ποιητική ⁑</p>
          </div>
        </div>
        <div n="105r_3" type="scholion">
@@ -797,7 +786,7 @@
            <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.103</p>
          </div>
          <div n="comment">
-           <p>  ⁑</p>
+           <p> πέπηγε γὰρ ἐν τῇ νεότητι: τέλος δὲ λύσεως θάνατος ⁑</p>
          </div>
        </div>
        <div n="105r_4" type="scholion">
@@ -808,7 +797,7 @@
            <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.104</p>
          </div>
          <div n="comment">
-           <p>  ⁑</p>
+           <p> ὁ μὴ δυνάμενος ἐν τῷ πεδίῳ στῆναι διὰ τὸ ἀσθενές: ὑπο γραφῶν δὲ ἄνω τὸ ἀσθενὲς τοῦ γέροντος, οὐ δὲν πρὶ τοῦ ἰδιοχσθένους ἀν θυπήγαγεν: ἀλλ' ἐλπίδα αὐτῶ, ὑπο γράφει σωτηρίας διὰ τὸ τάχος: εἰκότων δἐ ὅλασυνηγογε τὰ κακὰ, ὅ πως πείσῃ τῷ ἰδίωι ἐπιβῆναι ἅρμαστι ⁑</p>
          </div>
        </div>
        <div n="105r_5" type="scholion">
