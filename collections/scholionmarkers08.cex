@@ -1,3 +1,26 @@
 marker|reading|image|scholion|text
-urn:cite2:hmt:vbmarkers.v1:104v_1|<num>a</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.4049,0.2353,0.02671,0.02956|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_1|urn:cts:greekLit:tlg0012.tlg001.msB:8.72@ἦμαρ
+urn:cite2:hmt:vbmarkers.v1:104v_1|<num>α</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.4049,0.2353,0.02671,0.02956|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_1|urn:cts:greekLit:tlg0012.tlg001.msB:8.72@ἦμαρ
+urn:cite2:hmt:vbmarkers.v1:104v_2|<num>β</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.2465,0.2583,0.01179,0.01463|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_2|urn:cts:greekLit:tlg0012.tlg001.msB:8.73@μὲν
+urn:cite2:hmt:vbmarkers.v1:104v_3|<num>γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.2800,0.3165,0.01087,0.01433|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_3|urn:cts:greekLit:tlg0012.tlg001.msB:8.76@σέλας
+urn:cite2:hmt:vbmarkers.v1:104v_4|<num>δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.3036,0.3356,0.01271,0.01344|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_4|urn:cts:greekLit:tlg0012.tlg001.msB:8.77@καὶ
+urn:cite2:hmt:vbmarkers.v1:104v_5|<num>ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.2846,0.3744,0.01234,0.01254|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_5|urn:cts:greekLit:tlg0012.tlg001.msB:8.79@Αἴαντες
+urn:cite2:hmt:vbmarkers.v1:104v_6|<num>ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.3709,0.3918,0.01216,0.01433|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_6|urn:cts:greekLit:tlg0012.tlg001.msB:8.80@οὖρος
+urn:cite2:hmt:vbmarkers.v1:104v_7|<num>ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.2498,0.4279,0.01216,0.01433|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_7|urn:cts:greekLit:tlg0012.tlg001.msB:8.82@δῖος
+urn:cite2:hmt:vbmarkers.v1:104v_8|<num>η</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.3751,0.4452,0.01492,0.01702|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_8|urn:cts:greekLit:tlg0012.tlg001.msB:8.83@πρῶται
+urn:cite2:hmt:vbmarkers.v1:104v_9|<num>θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.2797,0.5181,0.01234,0.01642|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_9|urn:cts:greekLit:tlg0012.tlg001.msB:8.87@γἐρων
+urn:cite2:hmt:vbmarkers.v1:104v_10|<num>ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.4031,0.5945,0.01234,0.01583|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_10|urn:cts:greekLit:tlg0012.tlg001.msB:8.91@Διομήδης
+urn:cite2:hmt:vbmarkers.v1:104v_11|<num>ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.4149,0.6088,0.01400,0.01762|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_11|urn:cts:greekLit:tlg0012.tlg001.msB:8.92@Ὀδυσῆα
+urn:cite2:hmt:vbmarkers.v1:104v_12|<num>ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.3865,0.6279,0.01603,0.01851|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_12|urn:cts:greekLit:tlg0012.tlg001.msB:8.93@χαν'
+urn:cite2:hmt:vbmarkers.v1:104v_13|<num>ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.3887,0.6477,0.01492,0.01792|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_104v_13|urn:cts:greekLit:tlg0012.tlg001.msB:8.94@κακὸς
+urn:cite2:hmt:vbmarkers.v1:105r_1|<num>ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.6035,0.2675,0.01603,0.02239|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_1|urn:cts:greekLit:tlg0012.tlg001.msB:8.97@ἐσάκουσε
+urn:cite2:hmt:vbmarkers.v1:105r_2|<num>ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5374,0.3461,0.01253,0.02001|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_2|urn:cts:greekLit:tlg0012.tlg001.msB:8.101@μιν 
+urn:cite2:hmt:vbmarkers.v1:105r_3|<num>ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5838,0.3822,0.01419,0.02001|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_3|urn:cts:greekLit:tlg0012.tlg001.msB:8.103@λέλυται
+urn:cite2:hmt:vbmarkers.v1:105r_4|<num>ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5256,0.4019,0.01308,0.01732|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_4|urn:cts:greekLit:tlg0012.tlg001.msB:8.104@ἠπεδανὸς 
+urn:cite2:hmt:vbmarkers.v1:105r_5|<num>ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5381,0.4787,0.01179,0.01672|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_5|urn:cts:greekLit:tlg0012.tlg001.msB:8.108@ποτ᾽
+urn:cite2:hmt:vbmarkers.v1:105r_6|<num>ιθ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5859,0.5330,0.01197,0.01911|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_6|urn:cts:greekLit:tlg0012.tlg001.msB:8.111@ἐμὸν
+urn:cite2:hmt:vbmarkers.v1:105r_7|<num>κ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5610,0.5912,0.01197,0.01792|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_7|urn:cts:greekLit:tlg0012.tlg001.msB:8.114@Σθένελός 
+urn:cite2:hmt:vbmarkers.v1:105r_8|<num>κα</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5831,0.6106,0.01566,0.01821|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_8|urn:cts:greekLit:tlg0012.tlg001.msB:8.115@ἀμφοτέρω
+urn:cite2:hmt:vbmarkers.v1:105r_9|<num>κβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.6406,0.6303,0.01824,0.01642|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_9|urn:cts:greekLit:tlg0012.tlg001.msB:8.116@ἡνία 
+urn:cite2:hmt:vbmarkers.v1:105r_10|<num>κγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_104v_105r@0.5873,0.6477,0.01216,0.01971|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_105r_10|urn:cts:greekLit:tlg0012.tlg001.msB:8.117@ἵππους
+
 
