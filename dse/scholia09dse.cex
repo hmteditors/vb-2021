@@ -1,3 +1,6 @@
+#!citerelationset
+urn|urn:cite2:hmt:dse.v1:msBsch9
+label|Collection of DSE records for scholia to Iliad 9 in Venetus B
 passage|imageroi|surface
 urn:cts:greekLit:tlg5026.msB.hmt:9.msB_114v_1|urn:cite2:hmt:vbbifolio.v1:vb_114v_115r@0.08880,0.08202,0.3753,0.09919|urn:cite2:hmt:msB.v1:114v
 urn:cts:greekLit:tlg5026.msB.hmt:9.msB_114v_2|urn:cite2:hmt:vbbifolio.v1:vb_114v_115r@0.08714,0.1704,0.2778,0.02531|urn:cite2:hmt:msB.v1:114v
