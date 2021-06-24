@@ -1700,6 +1700,172 @@
         <p> τοιαύτην φησὶ δώσω σοι, ἣν ἂν ἀξιώσαις κτᾶσθαι καὶ γαμετήν ⁑</p>
        </div>
      </div>
+     <div n="109r_1" type="scholion">
+       <div n="lemma">
+         <p><num value="10">ι</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.293</p>
+       </div>
+       <div n="comment">
+        <p> τὸ σπεύδειν ἐνταῦθα τὸ κακοπαθεῖν δηλοῖ, ἢ μᾶλλον ἐπείγεσθαι ⁑</p>
+       </div>
+     </div>
+     <div n="109r_2" type="scholion">
+       <div n="lemma">
+         <p><num value="11">ια</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.29</p>
+       </div>
+       <div n="comment">
+        <p> εἰρωνευόμενος τοῦτό φησιν, ἀντὶ τοῦ δεξιούμενος καὶ φιλοφρονούμενος: τοῦτο γὰρ δηλοῖ τὸ δεδεγμένος, ἀπὸ τοῦ δέχεσθαι ⁑</p>
+       </div>
+     </div>
+     <div n="109r_3" type="scholion">
+       <div n="lemma">
+         <p><num value="12">ιβ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.299</p>
+       </div>
+       <div n="comment">
+        <p> κύνα διὰ τὸ θρασὺ καὶ πολύλαλον ὡς καὶ ἀλλαχοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.362</ref><q>ἐξ αὖ νῦν ἔφυγες θάνατον κύον</q></cit> ⁑</p>
+       </div>
+     </div>
+     <div n="109r_4" type="scholion">
+       <div n="lemma">
+         <p><num value="13">ιγ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.306</p>
+       </div>
+       <div n="comment">
+        <p> ὅλον ὅλῳ παραβέβληται μη δενὸς ἐλλείποντος: ἔστι δὲ διάκενος ἡ μήκων διὸ βαρεῖται: κοινὸν δέ ἐστι τὸ κάρη βάλεν ⁑</p>
+       </div>
+     </div>
+     <div n="109r_5" type="scholion">
+       <div n="lemma">
+         <p><num value="14">ιδ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.307</p>
+       </div>
+       <div n="comment">
+        <p> λείπει τὸ ἐστίν: ἐκ δέχεται δὲ <persName n="urn:cite2:hmt:pers.v1:pers76">Νικάνωρ</persName> τὴν μετοχὴν ἀντὶ ῥήματος: νοτίῃσί δὲ, ὅτι εἰ μὴ ἦν ὑγρὰ, οὐκ ἂν ἐκέκλιτο ἀλλ' ἐκέκλαστο ⁑</p>
+       </div>
+     </div>
+     <div n="109r_6" type="scholion">
+       <div n="lemma">
+         <p><num value="15">ιε</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.311</p>
+       </div>
+       <div n="comment">
+        <p>  καὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορα</persName> σῴζει καὶ <persName n="urn:cite2:hmt:pers.v1:pers243">Τεῦκρον</persName> ἐπαίνει ὡς μὴ ἀποφυγόντα ἀλλὰ σφαλέντα: παρέσφηλε δὲ ἢ τὸν <persName n="urn:cite2:hmt:pers.v1:pers243">Τεῦκρον</persName> ἢ τὸν τόξον ⁑</p>
+       </div>
+     </div>
+     <div n="109r_7" type="scholion">
+       <div n="lemma">
+         <p><num value="16">ις</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.312</p>
+       </div>
+       <div n="comment">
+        <p> μόνους τοὺς <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName> ἡνιόχους ἐποίησεν ἐν τῷ πολέμῳ τιτρωσκομένους: ἄνω μὲν <persName n="urn:cite2:hmt:pers.v1:pers608">Ἠνιοπέα</persName>: νῦν δὲ <persName n="urn:cite2:hmt:pers.v1:pers606">Ἀρχεπτόλεμον</persName>: μετὰ δὲ ταῦτα <persName n="urn:cite2:hmt:pers.v1:pers506">Κεβριόνην</persName>: θρασὺς γὰρ ἡνίοχός ἐστιν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName>: διδάσκει δὲ ὁ ποιητὴς ὅτι βλάπτει ἡ πρὸς τοὺς θρασεῖς φιλία ⁑</p>
+       </div>
+     </div>
+     <div n="109r_8" type="scholion">
+       <div n="lemma">
+         <p><num value="17">ιη</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.313</p>
+       </div>
+       <div n="comment">
+        <p> ἐμφαίνει διὰ τούτου ὅτι ἔδρασεν ἄν τι χαλεπὸν, εἰ μὴ ὑπὸ <persName n="urn:cite2:hmt:pers.v1:pers40">Ἀπόλλωνος</persName> μὲν παρεσφάλη, ὑπὸ δὲ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName> ἐτρώθη ⁑</p>
+       </div>
+     </div>
+     <div n="109v_1" type="scholion">
+       <div n="lemma">
+         <p><num value="1">α</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.325</p>
+       </div>
+       <div n="comment">
+        <p> περὶ τὸν σύν δεσμον τῆς ὠ μο πλάτης ἠ τοι τὴν άκρωμίαν: καίριον δὲ τοῦτο ὡς πρὸς τοξότιν καλεῖ   ⁑</p>
+       </div>
+     </div>
+     <div n="109v_2" type="scholion">
+       <div n="lemma">
+         <p><num value="2">β</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.327</p>
+       </div>
+       <div n="comment">
+        <p> ποῖος ὦμος βέβληται δηλονότι ὁ ἀριστερός: διὸ φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.329</ref><q>τόξον δέ οἱ ἔκπεσε χειρός</q></cit>: ἄλλως τε τὸν προβεβλημένον ὧμον εἰκὸς πεπλῆχθαι, οὐχὶ τὸν συνεσταλμένον ἐν τῷ τοξεύειν. προ Διέλυσας δὲ τὴν ὁρμὴν τοῦ λῖθου ἡ κοπεῖ σανευρά ⁑</p>
+       </div>
+     </div>
+     <div n="109v_3" type="scholion">
+       <div n="lemma">
+         <p><num value="3">γ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.331</p>
+       </div>
+       <div n="comment">
+        <p>  τὴν προθυμίαν καὶ σπουδὴν αὐτοῦ διὰ τοῦ θέων ἐδήλωσεν: ἐπειὸν οὐ μακρόθεν ἦν ἀλλ' ἐγγύς ⁑</p>
+       </div>
+     </div>
+     <div n="109v_4" type="scholion">
+       <div n="lemma">
+         <p><num value="4">δ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.335</p>
+       </div>
+       <div n="comment">
+        <p> πάλιν ἐπὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> τὸ τῆς νίκης αἴτιον ἀναφέρει, μὴ θέλων μωμῆσαι <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἕλληνας</rs> ⁑</p>
+       </div>
+     </div>
+     <div n="109v_5" type="scholion">
+       <div n="lemma">
+         <p><num value="5">ε</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.336</p>
+       </div>
+       <div n="comment">
+        <p> τῇ ταραχῇ τῶν φευγόντων, μονονουχὶ καὶ οἱ ἄριστοι τῇ τάφρῳ φεύγοντες ἐνέπεσον ⁑</p>
+       </div>
+     </div>
+     <div n="109v_6" type="scholion">
+       <div n="lemma">
+         <p><num value="6">ς</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.3</p>
+       </div>
+       <div n="comment">
+        <p> οὐ δεόντως φασί τῷ κυνὶ ἓν ζῷον διώκοντι παραβάλλει τὸν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορα</persName> διώκοντα πολλούς: ἄλλως τε οὐκ ἔδει εἰκάζειν τὸν διώκοντα κυνί. τοὺς δὲ διωκομένους ἀλκιμωτέρω ζώῳ τῷ λέοντι: ῥητέον δὲ πρὸς μὲν τὸ πρότερον ὅτι ὁ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> εἴκασται κυνὶ ἑνὶ: καὶ ὁ ἀποκτεινόμενος, θηρὶ ἑνί: φησὶ γὰρ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.342</ref><q>αἰὲν ἀποκτείνων τὸν ὀπίστατον“</q></cit>: πρὸς δὲ τὸ δεύτερον, ὅτι ἡ παραβολὴ οὐ πρὸς ἰσχὺν ἀλλὰ τάχος: κύνες γὰρ ἐν ταῖς θήραις, ἐπιτήδειοι πρὸς δίωξιν: δια τοῦτο ὁ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> διώκοντι εἴκασται κυνί: τὰ δὲ ἄγρια ζῷα φεύγουσιν εἴωθε τὰ πολλά: δια τοῦτο ὑποχωροῦντες <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἕλληνες</rs>, τοῖς φεύγουσιν εἰκάζονται: ἔπειτα καὶ δεόντως τοῖς ἀλκιμωτέροις ζῴοις φεύγουσι παρέβαλε τοὺς Ἕλληνας: προεῖχον γὰρ τῇ ῥώμῃ καὶ τα νῦν δυστυχοῦσι: καὶ ἀεὶ ὁ ποιητὴς εἴωθε κακοπραγοῦντας αὐτοὺς θηρσὶν εἰκάζειν ⁑</p>    
+       </div>
+     </div>
+     <div n="109v_7" type="scholion">
+       <div n="lemma">
+         <p><num value="7">ζ</num></p>
+       </div>
+       <div n="ref">
+         <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.339</p>
+       </div>
+       <div n="comment">
+        <p> εὖ τὸ ἅπτηται· οὐ γὰρ ἐπιλαμβάνεται, ἐπιπηδᾷ δὲ ὑλακτῶν. εὖ δὲ καὶ τὸ ὄπισθεν· ἐναντίος γὰρ οὐ πρόσεισι τῷ θηρίῳ τὴν ἐμβολὴν αὐτοῦ φοβούμενος. καλῶς δὲ οὐ τῇ πλευρᾷ ἐπίκειται, ἀλλὰ τοῖς γλουτοῖς καὶ τοῖς ἰσχίοις πρὸς τὸ ῥᾳδίως ἐκκλίνειν τὴν ἐπιστροφὴν τοῦ θηρίου· ἐπιφέρει γοῦν ἑλισσόμενόν τε δοκεύει . καὶ ἐν τῇ δυστυχίᾳ δὲ ὑψοῦται τὸ Ἑλληνικόν. ⁑</p>    
+       </div>
+     </div>
+
      
        
 
