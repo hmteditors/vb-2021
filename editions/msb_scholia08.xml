@@ -1631,7 +1631,7 @@
          <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.274</p>
        </div>
        <div n="comment">
-        <p> φιλέλλην ὢν, τοὺς μὲν ἐξ αὐτῶν ἐν τῇ πρώην ἥττῃ τελευτήσαντας, οὐ καταλέγει νεκρούς: τοὺς δὲ τῶν Τρώων ἀεὶ ἀριθμεῖ καὶ νῦν ⁑</p>
+        <p> φιλέλλην ὢν, τοὺς μὲν ἐξ αὐτῶν ἐν τῇ πρώην ἥττῃ τελευτήσαντας, οὐ καταλέγει νεκρούς: τοὺς δὲ τῶν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> ἀεὶ ἀριθμεῖ καὶ νῦν ⁑</p>
        </div>
      </div>
      <div n="108v_4" type="scholion">
@@ -2490,6 +2490,138 @@
       </div>
       <div n="comment">
        <p>  τὸ ἐκ βολῆς τραῦμα: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.269</ref><q>ὡς δ' ὅταν ὠδίνουσαν ἔχῃ βέλος</q></cit> ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_1" type="scholion">
+      <div n="lemma">
+        <p><num value="1">α</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.519</p>
+      </div>
+      <div n="comment">
+       <p> παρὰ τὸ λέχος: καὶ ξύλα λέξασθαι καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.125</ref><q><rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶας</rs> μὲν λέξασθαι</q></cit>: ὅθεν καὶ λογάδες καὶ <q>σύλλογος <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs></q> ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_2" type="scholion">
+      <div n="lemma">
+        <p><num value="2">β</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.520</p>
+      </div>
+      <div n="comment">
+       <p> τῶν ἄλλων ζώων, ἢ τῶν παρθένων: αἱ τετοκυῖαι φησί τὴν συνήθη ἐπικουρίαν πρασσέτωσαν: συνεργοῦσαι κατὰ δύναμιν τοῖς κακοπαθοῦσιν ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_3" type="scholion">
+      <div n="lemma">
+        <p><num value="3">γ</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.523</p>
+      </div>
+      <div n="comment">
+       <p> τυραννικῶς αὐτοῖς οὐχὶ βασιλικῶς διαλέγεται, ἐπηρμένος τῇ ἀλαζονείᾳ ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_4" type="scholion">
+      <div n="lemma">
+        <p><num value="4">δ</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.524</p>
+      </div>
+      <div n="comment">
+       <p> ὁ ἀπαραποίητος καὶ ἀπαράβατος ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_5" type="scholion">
+      <div n="lemma">
+        <p><num value="5">ε</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.527</p>
+      </div>
+      <div n="comment">
+       <p> ὅρα τὸ παλίμβολον <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName>: τῇ γυναικὶ ἔλεγεν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.448</ref><q>ἔσσεται ἦμαρ ὅτάν ποτ' ὀλώλῃ <placeName n="urn:cite2:hmt:place.v1:place6">Ἴλιος</placeName> ἱρὴ</q></cit>, ὦδε δὲ ἄλλως: ἐκεῖ μὲν γὰρ τῶν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> ἡττωμένων, δύσελπις ἦν: ἐνταῦθα δὲ τῇ μάχῃ κρατῶν, ἐλπίζει τὰ χρηστά ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_6" type="scholion">
+      <div n="lemma">
+        <p><num value="6">ς</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.532</p>
+      </div>
+      <div n="comment">
+       <p> ἐντέχνως ἐφ' ἑαυτοῦ μὲν εἶπεν ὅτι οὐκ ἀπωθήσεται: ἐπὶ δὲ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδους</persName> ὅτι ἀναιρεθήσεται: καὶ ὅτι σκύλα παρέξει αὐτῷ ἀποθανών: στρατηγικῶς δὲ παραθαρσύνει αὐτούς: δεδίασι γὰρ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδην</persName>, διὰ τὴν ὑπόγυιον ἀριστείαν: καὶ τὸ <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδης</persName> προσλαβὸν τὸ ἄρθρον, οὐκ ἀργὴν τὴν ἀναφορὰν ἔχει ⁑</p>   
+      </div>
+    </div>
+    <div n="113v_7" type="scholion">
+      <div n="lemma">
+        <p><num value="7">ζ</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.537</p>
+      </div>
+      <div n="comment">
+       <p> ἀπὸ κοινοῦ ληπτέον τὸ κείσονται ⁑</p>   
+      </div>
+    </div>
+    <div n="114r_1" type="scholion">
+      <div n="lemma">
+        <p><num value="8">η</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.539</p>
+      </div>
+      <div n="comment">
+       <p> βαρβαρικὸν τὸ εὔχεσθαι τὰ ἀδύνατα ⁑</p>   
+      </div>
+    </div>
+    <div n="114r_2" type="scholion">
+      <div n="lemma">
+        <p><num value="9">θ</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.542</p>
+      </div>
+      <div n="comment">
+       <p> καλῶς ἐπὶ μὲν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers14">Ἑλλήνων</rs> φησὶν <rs type="urn:cite2:hmt:place.v1:place114">Ἀργεῖοι</rs> δὲ μέγ' ἴαχον, ἐπὶ δὲ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> κελάδησαν λέγει: θορυβῶδες γὰρ ἀεὶ τὸ βαρβαρικόν ⁑</p>   
+      </div>
+    </div>
+    <div n="114r_3" type="scholion">
+      <div n="lemma">
+        <p><num value="10">ι</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.555</p>
+      </div>
+      <div n="comment">
+       <p> οἱ μενὸν ἄρ τι φαίνεσθαι ἀρωομένην: οἱ δὲον λεπτήν: ὡς τὸ μάστιγα φαεινήν: οἱ δεὸν τὴν φύσει φαειμήν: προς φυῶς δὲ τῷ νυκτερινῷ φωτὶ παρει κάζει αὐτά ⁑</p>   
+      </div>
+    </div>
+    <div n="114r_4" type="scholion">
+      <div n="lemma">
+        <p><num value="11">ια</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.560</p>
+      </div>
+      <div n="comment">
+       <p> ἄλλως ἐσχημάτισε τὸν λόγον οὐκ ἐπενεγκὼν τῷ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:8.555</ref><q>ὡς δ' ὅτ' ἐν οὐρανῷ ἄστρα</q></cit> τὸ‘οὕτως μεταξὺ νεῶν ⁑</p>   
+      </div>
+    </div>
+    <div n="114r_5" type="scholion">
+      <div n="lemma">
+        <p><num value="12">ιβ</num></p>
+      </div>
+      <div n="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.563</p>
+      </div>
+      <div n="comment">
+       <p> ἀφορμὴν λαβὼν, καὶ τῶν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> ἡμῖν τὸν ἀριθμὸν ἐδήλωσεν: ὅτι ἀμφὶ τὰς πέντε μυριάδας ἐστὶν ὁ τῶν τῶν πολιτῶν: οἱ. γὰρ ἐπίκουροι καθεύδουσι <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρωσὶ</rs> τὴν φυλακὴν ἐπιτρέψαντες ⁑</p>   
       </div>
     </div>
     
