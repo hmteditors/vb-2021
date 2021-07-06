@@ -539,65 +539,10 @@
                           </div>
                       </div>
 
-                      <div n="136v_1" type="scholion">
-                          <div n="lemma">
-                              <p><num value="1">α</num></p>
-                          </div>
-                          <div n="ref">
-                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.339</p>
-                          </div>
-                          <div n="comment">
-                              <p>ὡς προνοῶν μὴ καὶ παρὰ τῶν πολεμίων εἴη τίς δόλος: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> καταφρονῶν τῶν κινδύνων, οὐ προνοεῖ:
-                            πῶς δὲ τὸν ἐρωδιὸν μὴ ὁρῶντες, αὐτὸν ὁρῶσιν: ἴσως ὅτι πρὸς ὄρθρον ἡ σελήνη μη ἀνέσχεν ⁑  </p>
-                          </div>
-                      </div>
-                      <div n="136v_2" type="scholion">
-                          <div n="lemma">
-                              <p><num value="2">β</num></p>
-                          </div>
-                          <div n="ref">
-                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.343</p>
-                          </div>
-                          <div n="comment">
-                              <p> οὐ γὰρ οὕτω ῥάδιον οἴεται τὸ μόνον εἰς κατασκοπὴν ἀφικέσθαι: ἐῶσι δὲ παρελθεῖν μὴ εῖδοτες τὴν ὠκύτητα αὐτοῦ ⁑  </p>
-                          </div>
-                      </div>
-
-                      <div n="136v_3" type="scholion">
-                          <div n="lemma">
-                              <p><num value="3">γ</num></p>
-                          </div>
-                          <div n="ref">
-                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.346</p>
-                          </div>
-                          <div n="comment">
-                              <p>εἰδὲ πλαγίαν ὡς ἐπὶ τὴν πόλιν ποιεῖται τὴν ὁδὸν  <corr>:</corr>
-                          ἀπόστρεφε πάλιν αὐτὸν ἐπὶ τὰς ναῦς ⁑  </p>
-                          </div>
-                      </div>
 
 
-                      <div n="136v_4" type="scholion">
-                          <div n="lemma">
-                              <p><num value="4">δ</num></p>
-                          </div>
-                          <div n="ref">
-                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.350</p>
-                          </div>
-                          <div n="comment">
-                              <p><q>παρέδραμε</q>
-                              <choice>
-                                <orig>φ</orig>
-                                <reg>
-                                  <choice>
-                                    <abbr>φ<add place = "supralinear">η</add>
-                                  </abbr><expan>φησὶν</expan>
-                                </choice>
-                                </reg>
-                              </choice>
-                            ἀσυνέτως: οὐ θεασάμενος αὐτούς: δεῖ δὲ τοὺς κατασκόπους τὴν ὄψιν περιάγειν, πρὸς ἐπίγνωσιν ἀκριβῆ ⁑</p>
-                          </div>
-                      </div>
+                      <!-- missing scholia: 134r -->
+
 
                       <div n="135v_1" type="scholion">
                           <div n="lemma">
@@ -775,6 +720,67 @@
                               <p>ἰκτίς ἐστι κατὰ <persName n="urn:cite2:hmt:pers.v1:pers300">Ἀριστοτέλην</persName> ζῶον ὀρνιθοφάγον. ὅμοιον μικρῷ κυνιδίῳ: οὗ τὸ δέρμα φορεῖ: τάχα οὖν ὁ ποιητὴς κατὰ ἀφαίρεσιν αὐτὸ ἐποίησε τοῦ πρώτου <rs type="waw">ι</rs>⁑</p>
                           </div>
                       </div>
+
+                      <div n="136v_1" type="scholion">
+                          <div n="lemma">
+                              <p><num value="1">α</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.339</p>
+                          </div>
+                          <div n="comment">
+                              <p>ὡς προνοῶν μὴ καὶ παρὰ τῶν πολεμίων εἴη τίς δόλος: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> καταφρονῶν τῶν κινδύνων, οὐ προνοεῖ:
+                            πῶς δὲ τὸν ἐρωδιὸν μὴ ὁρῶντες, αὐτὸν ὁρῶσιν: ἴσως ὅτι πρὸς ὄρθρον ἡ σελήνη μη ἀνέσχεν ⁑  </p>
+                          </div>
+                      </div>
+                      <div n="136v_2" type="scholion">
+                          <div n="lemma">
+                              <p><num value="2">β</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.343</p>
+                          </div>
+                          <div n="comment">
+                              <p> οὐ γὰρ οὕτω ῥάδιον οἴεται τὸ μόνον εἰς κατασκοπὴν ἀφικέσθαι: ἐῶσι δὲ παρελθεῖν μὴ εῖδοτες τὴν ὠκύτητα αὐτοῦ ⁑  </p>
+                          </div>
+                      </div>
+
+                      <div n="136v_3" type="scholion">
+                          <div n="lemma">
+                              <p><num value="3">γ</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.346</p>
+                          </div>
+                          <div n="comment">
+                              <p>εἰδὲ πλαγίαν ὡς ἐπὶ τὴν πόλιν ποιεῖται τὴν ὁδὸν  <corr>:</corr>
+                          ἀπόστρεφε πάλιν αὐτὸν ἐπὶ τὰς ναῦς ⁑  </p>
+                          </div>
+                      </div>
+
+
+                      <div n="136v_4" type="scholion">
+                          <div n="lemma">
+                              <p><num value="4">δ</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.350</p>
+                          </div>
+                          <div n="comment">
+                              <p><q>παρέδραμε</q>
+                              <choice>
+                                <orig>φ</orig>
+                                <reg>
+                                  <choice>
+                                    <abbr>φ<add place = "supralinear">η</add>
+                                  </abbr><expan>φησὶν</expan>
+                                </choice>
+                                </reg>
+                              </choice>
+                            ἀσυνέτως: οὐ θεασάμενος αὐτούς: δεῖ δὲ τοὺς κατασκόπους τὴν ὄψιν περιάγειν, πρὸς ἐπίγνωσιν ἀκριβῆ ⁑</p>
+                          </div>
+                      </div>
+
                       <div n="136v_5" type="scholion">
                           <div n="lemma">
                               <p><num value="5">ε</num></p>
@@ -837,6 +843,8 @@
                               <p>τὸν καταληφθησόμενον δηλοῖ: περικατάληπτοι γὰρ γινόμενοι βοῶσιν οἱ λαγωοί ⁑ </p>
                           </div>
                       </div>
+
+                      <!-- 136r-139r-->
 
 
 
