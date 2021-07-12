@@ -1,8 +1,8 @@
 marker|reading|image|scholion|text
-
+ 
 urn:cite2:hmt:vbmarkers.v1:129r_1|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_128v_129r@0.5239,0.6272,0.03353,0.03760|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.1
 urn:cite2:hmt:vbmarkers.v1:129r_2|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_128v_129r@0.5637,0.6507,0.04550,0.03143|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.2
-
+ 
 urn:cite2:hmt:vbmarkers.v1:129v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.2493,0.2011,0.04808,0.03268|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.3
 urn:cite2:hmt:vbmarkers.v1:129v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.3766,0.2267,0.06209,0.02525|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.4
 urn:cite2:hmt:vbmarkers.v1:129v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.2603,0.2481,0.04643,0.02852|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.5
@@ -15,7 +15,7 @@ urn:cite2:hmt:vbmarkers.v1:129v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifoli
 urn:cite2:hmt:vbmarkers.v1:129v_10|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.2813,0.5867,0.04974,0.02525|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.23
 urn:cite2:hmt:vbmarkers.v1:129v_11|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.3657,0.5859,0.03777,0.02496|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.23
 urn:cite2:hmt:vbmarkers.v1:129v_12|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.2336,0.6248,0.03316,0.02198|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_129v_12|urn:cts:greekLit:tlg0012.tlg001.msB:10.25
-
+ 
 urn:cite2:hmt:vbmarkers.v1:130r_1|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.4895,0.2460,0.02395,0.03238|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.29
 urn:cite2:hmt:vbmarkers.v1:130r_2|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.5297,0.3250,0.04035,0.02436|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.33
 urn:cite2:hmt:vbmarkers.v1:130r_3|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.5081,0.3627,0.03077,0.02614|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.35
@@ -26,7 +26,7 @@ urn:cite2:hmt:vbmarkers.v1:130r_7|<num value="19">ιθ</num>|urn:cite2:hmt:vbbif
 urn:cite2:hmt:vbmarkers.v1:130r_8|<num value="20">κ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.5070,0.5291,0.04458,0.02585|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.44
 urn:cite2:hmt:vbmarkers.v1:130r_9|<num value="21">κα</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.6737,0.5627,0.04108,0.02911|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.46
 urn:cite2:hmt:vbmarkers.v1:130r_10|<num value="22">κβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_129v_130r@0.5181,0.5841,0.01805,0.02733|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.47
-
+ 
 urn:cite2:hmt:vbmarkers.v1:130v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.2824,0.2198,0.02303,0.02986|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.51
 urn:cite2:hmt:vbmarkers.v1:130v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.2507,0.2629,0.02432,0.03074|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.53
 urn:cite2:hmt:vbmarkers.v1:130v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.3217,0.3203,0.02948,0.03103|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.56
@@ -37,7 +37,7 @@ urn:cite2:hmt:vbmarkers.v1:130v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifoli
 urn:cite2:hmt:vbmarkers.v1:130v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.3546,0.5252,0.05472,0.02869|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.67
 urn:cite2:hmt:vbmarkers.v1:130v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.2362,0.5436,0.04937,0.02576|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.68
 urn:cite2:hmt:vbmarkers.v1:130v_10|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.4079,0.6171,0.03335,0.02400|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_130v_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.72
-
+ 
 urn:cite2:hmt:vbmarkers.v1:131r_1|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.5510,0.2061,0.04864,0.03308|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.75
 urn:cite2:hmt:vbmarkers.v1:131r_2|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.6131,0.2895,0.04440,0.02400|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.79
 urn:cite2:hmt:vbmarkers.v1:131r_3|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.5910,0.3074,0.04127,0.02605|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.80
@@ -49,22 +49,196 @@ urn:cite2:hmt:vbmarkers.v1:131r_8|<num value="18">ιη</num>|urn:cite2:hmt:vbbif
 urn:cite2:hmt:vbmarkers.v1:131r_9|<num value="19">ιθ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.5812,0.5594,0.06522,0.02722|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.94
 urn:cite2:hmt:vbmarkers.v1:131r_10|<num value="20">κ</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.6374,0.5948,0.01032,0.02547|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.96
 urn:cite2:hmt:vbmarkers.v1:131r_11|<num value="21">κα</num>|urn:cite2:hmt:vbbifolio.v1:vb_130v_131r@0.6127,0.6311,0.05674,0.02400|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131r_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.98
-
+ 
 urn:cite2:hmt:vbmarkers.v1:131v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.3882,0.2418,0.05417,0.02804|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.100
 urn:cite2:hmt:vbmarkers.v1:131v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.2449,0.3257,0.02463,0.02614|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.104
 urn:cite2:hmt:vbmarkers.v1:131v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.3706,0.4013,0.05080,0.02836|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.108
 urn:cite2:hmt:vbmarkers.v1:131v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.2264,0.5204,0.03679,0.02788|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.114
 urn:cite2:hmt:vbmarkers.v1:131v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.2081,0.6356,0.03414,0.02947|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.120
 urn:cite2:hmt:vbmarkers.v1:131v_6|<num value="6">ϛ</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.2524,0.6735,0.03168,0.02947|urn:cts:greekLit:tlg5026.msB.hmt:8.msB_131v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.122
+ 
+urn:cite2:hmt:vbmarkers.v1:132r_1|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.6464,0.2372,0.04283,0.03216|urn:cts:greekLit:tlg0012.tlg001.msB_132r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.124
+urn:cite2:hmt:vbmarkers.v1:132r_2|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.5958,0.3444,0.06429,0.02693|urn:cts:greekLit:tlg0012.tlg001.msB_132r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.129
+urn:cite2:hmt:vbmarkers.v1:132r_3|<num value="9">θ/num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.6583,0.5215,0.04507,0.03343|urn:cts:greekLit:tlg0012.tlg001.msB_132r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.138
+urn:cite2:hmt:vbmarkers.v1:132r_4|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.5672,0.5645,0.05223,0.03248|urn:cts:greekLit:tlg0012.tlg001.msB_132r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.140
+urn:cite2:hmt:vbmarkers.v1:132r_5|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.6870,0.5817,0.02484,0.03042|urn:cts:greekLit:tlg0012.tlg001.msB_132r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.141
+urn:cite2:hmt:vbmarkers.v1:132r_6|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_131v_132r@0.5358,0.6567,0.03720,0.03438|urn:cts:greekLit:tlg0012.tlg001.msB_132r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.145
+ 
+ 
+urn:cite2:hmt:vbmarkers.v1:132v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.3487,0.2835,0.03132,0.02535|urn:cts:greekLit:tlg0012.tlg001.msB_132v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.149
+urn:cite2:hmt:vbmarkers.v1:132v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.3581,0.3202,0.04127,0.02855|urn:cts:greekLit:tlg0012.tlg001.msB_132v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.151
+urn:cite2:hmt:vbmarkers.v1:132v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.3419,0.3584,0.04237,0.02681|urn:cts:greekLit:tlg0012.tlg001.msB_132v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.153
+urn:cite2:hmt:vbmarkers.v1:132v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.3373,0.4135,0.03353,0.02797|urn:cts:greekLit:tlg0012.tlg001.msB_132v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.156
+urn:cite2:hmt:vbmarkers.v1:132v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.2467,0.4522,0.02874,0.02826|urn:cts:greekLit:tlg0012.tlg001.msB_132v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.158
+urn:cite2:hmt:vbmarkers.v1:132v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.2623,0.4843,0.02800,0.03059|urn:cts:greekLit:tlg0012.tlg001.msB_132v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.160
+urn:cite2:hmt:vbmarkers.v1:132v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.2502,0.5618,0.03998,0.02855|urn:cts:greekLit:tlg0012.tlg001.msB_132v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.164
+urn:cite2:hmt:vbmarkers.v1:132v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.3697,0.6163,0.05140,0.02593|urn:cts:greekLit:tlg0012.tlg001.msB_132v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.167
+urn:cite2:hmt:vbmarkers.v1:132v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.2806,0.6469,0.04035,0.03467|urn:cts:greekLit:tlg0012.tlg001.msB_132v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.169
+ 
+urn:cite2:hmt:vbmarkers.v1:133r_1|<num value="1">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5129,0.3173,0.04753,0.03263|urn:cts:greekLit:tlg0012.tlg001.msB_133r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.176
+urn:cite2:hmt:vbmarkers.v1:133r_2|<num value="2">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.6384,0.3709,0.04256,0.03147|urn:cts:greekLit:tlg0012.tlg001.msB_133r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.179
+urn:cite2:hmt:vbmarkers.v1:133r_3|<num value="3">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5324,0.4301,0.05029,0.02826|urn:cts:greekLit:tlg0012.tlg001.msB_133r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.182
+urn:cite2:hmt:vbmarkers.v1:133r_4|<num value="4">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5378,0.4478,0.03335,0.03118|urn:cts:greekLit:tlg0012.tlg001.msB_133r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.183
+urn:cite2:hmt:vbmarkers.v1:133r_5|<num value="5">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.6150,0.5023,0.02432,0.02826|urn:cts:greekLit:tlg0012.tlg001.msB_133r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.186
+urn:cite2:hmt:vbmarkers.v1:133r_6|<num value="6">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.6361,0.5393,0.03500,0.03118|urn:cts:greekLit:tlg0012.tlg001.msB_133r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.1
+urn:cite2:hmt:vbmarkers.v1:133r_7|<num value="7">ισ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5169,0.6087,0.02745,0.03089|urn:cts:greekLit:tlg0012.tlg001.msB_133r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.192
+urn:cite2:hmt:vbmarkers.v1:133r_8|<num value="8">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5785,0.6267,0.03814,0.03613|urn:cts:greekLit:tlg0012.tlg001.msB_133r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.193
+urn:cite2:hmt:vbmarkers.v1:133r_9|<num value="9">ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_132v_133r@0.5619,0.6503,0.04661,0.02855|urn:cts:greekLit:tlg0012.tlg001.msB_133r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.194
+ 
+urn:cite2:hmt:vbmarkers.v1:133v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3406,0.2889,0.04624,0.03369|urn:cts:greekLit:tlg0012.tlg001.msB_133v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.198
+urn:cite2:hmt:vbmarkers.v1:133v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3589,0.3077,0.05582,0.02944|urn:cts:greekLit:tlg0012.tlg001.msB_133v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.199
+urn:cite2:hmt:vbmarkers.v1:133v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3359,0.4046,0.03316,0.03126|urn:cts:greekLit:tlg0012.tlg001.msB_133v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.204
+urn:cite2:hmt:vbmarkers.v1:133v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.2303,0.4401,0.04532,0.03278|urn:cts:greekLit:tlg0012.tlg001.msB_133v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.206
+urn:cite2:hmt:vbmarkers.v1:133v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3602,0.4388,0.02561,0.03156|urn:cts:greekLit:tlg0012.tlg001.msB_133v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.206
+urn:cite2:hmt:vbmarkers.v1:133v_6|<num value="6">σ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3526,0.5557,0.04477,0.03065|urn:cts:greekLit:tlg0012.tlg001.msB_133v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.212
+urn:cite2:hmt:vbmarkers.v1:133v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.3723,0.6127,0.04348,0.02944|urn:cts:greekLit:tlg0012.tlg001.msB_133v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.215
+urn:cite2:hmt:vbmarkers.v1:133v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.2325,0.6486,0.02487,0.03429|urn:cts:greekLit:tlg0012.tlg001.msB_133v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.217
+ 
+urn:cite2:hmt:vbmarkers.v1:134r_1|<num value="1">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.6723,0.2637,0.02432,0.03247|urn:cts:greekLit:tlg0012.tlg001.msB_134r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.221
+urn:cite2:hmt:vbmarkers.v1:134r_2|<num value="2">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.5400,0.3047,0.05251,0.03308|urn:cts:greekLit:tlg0012.tlg001.msB_134r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.223
+urn:cite2:hmt:vbmarkers.v1:134r_3|<num value="3">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.6463,0.3803,0.03371,0.03096|urn:cts:greekLit:tlg0012.tlg001.msB_134r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.227
+urn:cite2:hmt:vbmarkers.v1:134r_4|<num value="4">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.5591,0.4892,0.04956,0.03642|urn:cts:greekLit:tlg0012.tlg001.msB_134r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.233
+urn:cite2:hmt:vbmarkers.v1:134r_5|<num value="5">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.6662,0.5278,0.06964,0.03308|urn:cts:greekLit:tlg0012.tlg001.msB_134r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.235
+urn:cite2:hmt:vbmarkers.v1:134r_6|<num value="6">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_133v_134r@0.5053,0.5839,0.05674,0.03642|urn:cts:greekLit:tlg0012.tlg001.msB_134r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.238
+ 
+urn:cite2:hmt:vbmarkers.v1:134v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2662,0.2364,0.04293,0.02543|urn:cts:greekLit:tlg0012.tlg001.msB_134v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.243
+urn:cite2:hmt:vbmarkers.v1:134v_2|<num value="2"βα</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2564,0.2564,0.05048,0.03092|urn:cts:greekLit:tlg0012.tlg001.msB_134v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.244
+urn:cite2:hmt:vbmarkers.v1:134v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2366,0.3159,0.05730,0.02486|urn:cts:greekLit:tlg0012.tlg001.msB_134v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.247
+urn:cite2:hmt:vbmarkers.v1:134v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2996,0.3486,0.02616,0.03266|urn:cts:greekLit:tlg0012.tlg001.msB_134v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.249
+urn:cite2:hmt:vbmarkers.v1:134v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2259,0.3855,0.03003,0.02630|urn:cts:greekLit:tlg0012.tlg001.msB_134v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.251
+urn:cite2:hmt:vbmarkers.v1:134v_6|<num value="6">σ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.3893,0.4017,0.02819,0.02775|urn:cts:greekLit:tlg0012.tlg001.msB_134v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.252
+urn:cite2:hmt:vbmarkers.v1:134v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2950,0.4564,0.07019,0.02775|urn:cts:greekLit:tlg0012.tlg001.msB_134v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.255
+urn:cite2:hmt:vbmarkers.v1:134v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2548,0.5113,0.03961,0.02775|urn:cts:greekLit:tlg0012.tlg001.msB_134v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.258
+urn:cite2:hmt:vbmarkers.v1:134v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2603,0.5309,0.03206,0.02717|urn:cts:greekLit:tlg0012.tlg001.msB_134v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.259
+urn:cite2:hmt:vbmarkers.v1:134v_10|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.2771,0.6503,0.04882,0.03092|urn:cts:greekLit:tlg0012.tlg001.msB_134v_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.266
+ 
+urn:cite2:hmt:vbmarkers.v1:135r_1|<num value="1">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.4897,0.2477,0.05066,0.03006|urn:cts:greekLit:tlg0012.tlg001.msB_135r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.268
+urn:cite2:hmt:vbmarkers.v1:135r_2|<num value="2">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5765,0.3055,0.04864,0.02890|urn:cts:greekLit:tlg0012.tlg001.msB_135r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.271
+urn:cite2:hmt:vbmarkers.v1:135r_3|<num value="3">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.6109,0.3214,0.05029,0.03439|urn:cts:greekLit:tlg0012.tlg001.msB_135r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.272
+urn:cite2:hmt:vbmarkers.v1:135r_4|<num value="4">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.6581,0.3370,0.03648,0.03642|urn:cts:greekLit:tlg0012.tlg001.msB_135r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.273
+urn:cite2:hmt:vbmarkers.v1:135r_4|<num value="5">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5840,0.3590,0.04993,0.03382|urn:cts:greekLit:tlg0012.tlg001.msB_135r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.274
+urn:cite2:hmt:vbmarkers.v1:135r_6|<num value="6">ισ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.6291,0.3581,0.05490,0.03266|urn:cts:greekLit:tlg0012.tlg001.msB_135r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.274
+urn:cite2:hmt:vbmarkers.v1:135r_7|<num value="7">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.6043,0.3795,0.02192,0.03006|urn:cts:greekLit:tlg0012.tlg001.msB_135r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.275
+urn:cite2:hmt:vbmarkers.v1:135r_8|<num value="8">ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5131,0.4332,0.02045,0.03150|urn:cts:greekLit:tlg0012.tlg001.msB_135r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.278
+urn:cite2:hmt:vbmarkers.v1:135r_9|<num value="9">ιθ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5453,0.4523,0.04200,0.03092|urn:cts:greekLit:tlg0012.tlg001.msB_135r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.279
+urn:cite2:hmt:vbmarkers.v1:135r_10|<num value="10">κ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.4891,0.4688,0.06430,0.03439|urn:cts:greekLit:tlg0012.tlg001.msB_135r_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.280
+urn:cite2:hmt:vbmarkers.v1:135r_11|<num value="11">κα</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5011,0.5783,0.04090,0.03266|urn:cts:greekLit:tlg0012.tlg001.msB_135r_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.286
+urn:cite2:hmt:vbmarkers.v1:135r_12|<num value="12">κβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_134v_135r@0.5286,0.6136,0.05453,0.03468|urn:cts:greekLit:tlg0012.tlg001.msB_135r_12|urn:cts:greekLit:tlg0012.tlg001.msB:10.288
+ 
+urn:cite2:hmt:vbmarkers.v1:135v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.2550,0.2272,0.01676,0.03200|urn:cts:greekLit:tlg0012.tlg001.msB_135v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.291
+urn:cite2:hmt:vbmarkers.v1:135v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.2852,0.3794,0.03721,0.03579|urn:cts:greekLit:tlg0012.tlg001.msB_135v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.299
+urn:cite2:hmt:vbmarkers.v1:135v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.3637,0.3977,0.04514,0.03433|urn:cts:greekLit:tlg0012.tlg001.msB_135v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.300
+urn:cite2:hmt:vbmarkers.v1:135v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.2559,0.4524,0.02137,0.03375|urn:cts:greekLit:tlg0012.tlg001.msB_135v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.303
+urn:cite2:hmt:vbmarkers.v1:135v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.3101,0.5444,0.03556,0.03171|urn:cts:greekLit:tlg0012.tlg001.msB_135v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.308
+urn:cite2:hmt:vbmarkers.v1:135v_6|<num value="6">σ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.2487,0.6555,0.02340,0.02997|urn:cts:greekLit:tlg0012.tlg001.msB_135v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.314
+ 
+urn:cite2:hmt:vbmarkers.v1:136r_1|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.6461,0.2118,0.07203,0.03724|urn:cts:greekLit:tlg0012.tlg001.msB_136r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.315
+urn:cite2:hmt:vbmarkers.v1:136r_2|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.6245,0.2825,0.03519,0.02648|urn:cts:greekLit:tlg0012.tlg001.msB_136r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.318
+urn:cite2:hmt:vbmarkers.v1:136r_3|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.5612,0.3049,0.04035,0.02560|urn:cts:greekLit:tlg0012.tlg001.msB_136r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.319
+urn:cite2:hmt:vbmarkers.v1:136r_4|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.7025,0.3102,0.04016,0.03026|urn:cts:greekLit:tlg0012.tlg001.msB_136r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.320
+urn:cite2:hmt:vbmarkers.v1:136r_5|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.5737,0.3378,0.04624,0.02299|urn:cts:greekLit:tlg0012.tlg001.msB_136r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.321
+urn:cite2:hmt:vbmarkers.v1:136r_6|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.5647,0.3715,0.04845,0.03230|urn:cts:greekLit:tlg0012.tlg001.msB_136r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.323
+urn:cite2:hmt:vbmarkers.v1:136r_7|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.6958,0.3867,0.03685,0.03142|urn:cts:greekLit:tlg0012.tlg001.msB_136r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.324
+urn:cite2:hmt:vbmarkers.v1:136r_8|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.6947,0.4617,0.04366,0.02706|urn:cts:greekLit:tlg0012.tlg001.msB_136r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.328
+urn:cite2:hmt:vbmarkers.v1:136r_9|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.6264,0.5743,0.03740,0.02677|urn:cts:greekLit:tlg0012.tlg001.msB_136r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.334
+urn:cite2:hmt:vbmarkers.v1:136r_10|<num value="16">ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.5680,0.5898,0.04550,0.03142|urn:cts:greekLit:tlg0012.tlg001.msB_136r_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.335
+ 
+urn:cite2:hmt:vbmarkers.v1:136v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3298,0.2429,0.04090,0.03335|urn:cts:greekLit:tlg0012.tlg001.msB_136v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.339
+urn:cite2:hmt:vbmarkers.v1:136v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.2419,0.3303,0.04237,0.02745|urn:cts:greekLit:tlg0012.tlg001.msB_136v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.343
+urn:cite2:hmt:vbmarkers.v1:136v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3261,0.3813,0.06853,0.03070|urn:cts:greekLit:tlg0012.tlg001.msB_136v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.346
+urn:cite2:hmt:vbmarkers.v1:136v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3213,0.4551,0.06448,0.02804|urn:cts:greekLit:tlg0012.tlg001.msB_136v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.350
+urn:cite2:hmt:vbmarkers.v1:136v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3399,0.4734,0.04569,0.02834|urn:cts:greekLit:tlg0012.tlg001.msB_136v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.351
+urn:cite2:hmt:vbmarkers.v1:136v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.2620,0.5124,0.03537,0.03040|urn:cts:greekLit:tlg0012.tlg001.msB_136v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.353
+urn:cite2:hmt:vbmarkers.v1:136v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3165,0.6443,0.02395,0.02952|urn:cts:greekLit:tlg0012.tlg001.msB_136v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.360
+urn:cite2:hmt:vbmarkers.v1:136v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3484,0.6635,0.04679,0.02627|urn:cts:greekLit:tlg0012.tlg001.msB_136v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.360
+urn:cite2:hmt:vbmarkers.v1:136v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.3347,0.6809,0.04772,0.02656|urn:cts:greekLit:tlg0012.tlg001.msB_136v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.361
+ 
+urn:cite2:hmt:vbmarkers.v1:137r_1|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.5291,0.3642,0.05177,0.02420|urn:cts:greekLit:tlg0012.tlg001.msB_137r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.369
+urn:cite2:hmt:vbmarkers.v1:137r_2|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.5639,0.3793,0.03298,0.02686|urn:cts:greekLit:tlg0012.tlg001.msB_137r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.370
+urn:cite2:hmt:vbmarkers.v1:137r_3|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.5930,0.4144,0.03298,0.02686|urn:cts:greekLit:tlg0012.tlg001.msB_137r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.372
+urn:cite2:hmt:vbmarkers.v1:137r_4|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.4930,0.4708,0.06411,0.02686|urn:cts:greekLit:tlg0012.tlg001.msB_137r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.375
+urn:cite2:hmt:vbmarkers.v1:137r_5|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.4849,0.5272,0.05490,0.02627|urn:cts:greekLit:tlg0012.tlg001.msB_137r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.378
+urn:cite2:hmt:vbmarkers.v1:137r_6|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_136v_137r@0.6443,0.5977,0.05251,0.03158|urn:cts:greekLit:tlg0012.tlg001.msB_137r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.382
+ 
+urn:cite2:hmt:vbmarkers.v1:137v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2546,0.2424,0.04606,0.02749|urn:cts:greekLit:tlg0012.tlg001.msB_137v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.387
+urn:cite2:hmt:vbmarkers.v1:137v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.3832,0.3024,0.03482,0.02779|urn:cts:greekLit:tlg0012.tlg001.msB_137v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.390
+urn:cite2:hmt:vbmarkers.v1:137v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2787,0.3234,0.03537,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_137v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.391
+urn:cite2:hmt:vbmarkers.v1:137v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2848,0.3766,0.03537,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_137v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.394
+urn:cite2:hmt:vbmarkers.v1:137v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2640,0.3937,0.06872,0.02867|urn:cts:greekLit:tlg0012.tlg001.msB_137v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.395
+urn:cite2:hmt:vbmarkers.v1:137v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2642,0.5019,0.01824,0.02986|urn:cts:greekLit:tlg0012.tlg001.msB_137v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.401
+urn:cite2:hmt:vbmarkers.v1:137v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.3508,0.5956,0.04311,0.02926|urn:cts:greekLit:tlg0012.tlg001.msB_137v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.406
+urn:cite2:hmt:vbmarkers.v1:137v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.2618,0.6175,0.03169,0.02513|urn:cts:greekLit:tlg0012.tlg001.msB_137v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.407
+urn:cite2:hmt:vbmarkers.v1:137v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.4001,0.6169,0.03427,0.02808|urn:cts:greekLit:tlg0012.tlg001.msB_137v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.407
+ 
+urn:cite2:hmt:vbmarkers.v1:138r_1|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.6459,0.3210,0.03906,0.02926|urn:cts:greekLit:tlg0012.tlg001.msB_138r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.415
+urn:cite2:hmt:vbmarkers.v1:138r_2|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5426,0.3606,0.05748,0.02926|urn:cts:greekLit:tlg0012.tlg001.msB_138r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.417
+urn:cite2:hmt:vbmarkers.v1:138r_3|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5118,0.3790,0.03316,0.02838|urn:cts:greekLit:tlg0012.tlg001.msB_138r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.418
+urn:cite2:hmt:vbmarkers.v1:138r_4|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5886,0.3999,0.07461,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_138r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.419
+urn:cite2:hmt:vbmarkers.v1:138r_5|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.6063,0.4369,0.06559,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_138r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.421
+urn:cite2:hmt:vbmarkers.v1:138r_6|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5418,0.4931,0.02119,0.02572|urn:cts:greekLit:tlg0012.tlg001.msB_138r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.424
+urn:cite2:hmt:vbmarkers.v1:138r_7|<num value="16">ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.6389,0.5457,0.05048,0.02601|urn:cts:greekLit:tlg0012.tlg001.msB_138r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.427
+urn:cite2:hmt:vbmarkers.v1:138r_8|<num value="17">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5626,0.5649,0.02653,0.02779|urn:cts:greekLit:tlg0012.tlg001.msB_138r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.428
+urn:cite2:hmt:vbmarkers.v1:138r_9|<num value="18">ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5324,0.6172,0.03611,0.03104|urn:cts:greekLit:tlg0012.tlg001.msB_138r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.431
+urn:cite2:hmt:vbmarkers.v1:138r_10|<num value="19">ιθ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5610,0.6550,0.04827,0.03074|urn:cts:greekLit:tlg0012.tlg001.msB_138r_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.433
+urn:cite2:hmt:vbmarkers.v1:138r_11|<num value="20">κβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_137v_138r@0.5179,0.6740,0.04458,0.02867|urn:cts:greekLit:tlg0012.tlg001.msB_138r_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.434
+ 
+urn:cite2:hmt:vbmarkers.v1:138v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2682,0.2292,0.03113,0.03245|urn:cts:greekLit:tlg0012.tlg001.msB_138v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.435
+urn:cite2:hmt:vbmarkers.v1:138v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.3287,0.2531,0.02432,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_138v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.436
+urn:cite2:hmt:vbmarkers.v1:138v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2211,0.2759,0.05324,0.02631|urn:cts:greekLit:tlg0012.tlg001.msB_138v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.437
+urn:cite2:hmt:vbmarkers.v1:138v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.3460,0.2727,0.05048,0.02806|urn:cts:greekLit:tlg0012.tlg001.msB_138v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.437
+urn:cite2:hmt:vbmarkers.v1:138v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2719,0.2906,0.03795,0.03391|urn:cts:greekLit:tlg0012.tlg001.msB_138v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.438
+urn:cite2:hmt:vbmarkers.v1:138v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2612,0.3671,0.02137,0.02894|urn:cts:greekLit:tlg0012.tlg001.msB_138v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.442
+urn:cite2:hmt:vbmarkers.v1:138v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.4042,0.4385,0.04624,0.03186|urn:cts:greekLit:tlg0012.tlg001.msB_138v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.446
+urn:cite2:hmt:vbmarkers.v1:138v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.3078,0.4601,0.03537,0.02543|urn:cts:greekLit:tlg0012.tlg001.msB_138v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.447
+urn:cite2:hmt:vbmarkers.v1:138v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2612,0.5148,0.03721,0.02572|urn:cts:greekLit:tlg0012.tlg001.msB_138v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.449
+urn:cite2:hmt:vbmarkers.v1:138v_10|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.2865,0.5881,0.03592,0.02865|urn:cts:greekLit:tlg0012.tlg001.msB_138v_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.449
+urn:cite2:hmt:vbmarkers.v1:138v_11|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.3102,0.6451,0.01898,0.02251|urn:cts:greekLit:tlg0012.tlg001.msB_138v_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.457
+ 
+urn:cite2:hmt:vbmarkers.v1:139r_1|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5881,0.2414,0.04108,0.02982|urn:cts:greekLit:tlg0012.tlg001.msB_139r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.460
+urn:cite2:hmt:vbmarkers.v1:139r_2|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5298,0.2675,0.04587,0.02806|urn:cts:greekLit:tlg0012.tlg001.msB_139r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.461
+urn:cite2:hmt:vbmarkers.v1:139r_3|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.6002,0.3037,0.05932,0.02748|urn:cts:greekLit:tlg0012.tlg001.msB_139r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.463
+urn:cite2:hmt:vbmarkers.v1:139r_4|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5050,0.4885,0.05140,0.02309|urn:cts:greekLit:tlg0012.tlg001.msB_139r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.473
+urn:cite2:hmt:vbmarkers.v1:139r_5|<num value="16">ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5169,0.5235,0.06559,0.02660|urn:cts:greekLit:tlg0012.tlg001.msB_139r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.475
+urn:cite2:hmt:vbmarkers.v1:139r_6|<num value="17">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5048,0.6133,0.04643,0.02719|urn:cts:greekLit:tlg0012.tlg001.msB_139r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.480
+urn:cite2:hmt:vbmarkers.v1:139r_7|<num value="18">ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_138v_139r@0.5672,0.6513,0.04716,0.02719|urn:cts:greekLit:tlg0012.tlg001.msB_139r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.482
+ 
+urn:cite2:hmt:vbmarkers.v1:139v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.2634,0.2439,0.06743,0.03119|urn:cts:greekLit:tlg0012.tlg001.msB_139v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.483
+urn:cite2:hmt:vbmarkers.v1:139v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.2754,0.2866,0.04679,0.03001|urn:cts:greekLit:tlg0012.tlg001.msB_139v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.485
+urn:cite2:hmt:vbmarkers.v1:139v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.3414,0.3825,0.03629,0.02648|urn:cts:greekLit:tlg0012.tlg001.msB_139v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.490
+urn:cite2:hmt:vbmarkers.v1:139v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.2968,0.4896,0.03795,0.02295|urn:cts:greekLit:tlg0012.tlg001.msB_139v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.496
+urn:cite2:hmt:vbmarkers.v1:139v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.2220,0.5481,0.02377,0.02030|urn:cts:greekLit:tlg0012.tlg001.msB_139v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.499
+urn:cite2:hmt:vbmarkers.v1:139v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.3401,0.5619,0.03924,0.02412|urn:cts:greekLit:tlg0012.tlg001.msB_139v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.500
+urn:cite2:hmt:vbmarkers.v1:139v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.2225,0.6005,0.05416,0.02736|urn:cts:greekLit:tlg0012.tlg001.msB_139v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.502
+urn:cite2:hmt:vbmarkers.v1:139v_8|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.3699,0.6161,0.05085,0.02736|urn:cts:greekLit:tlg0012.tlg001.msB_139v_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.503
+urn:cite2:hmt:vbmarkers.v1:139v_9|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.3113,0.6528,0.04035,0.02942|urn:cts:greekLit:tlg0012.tlg001.msB_139v_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.505
+ 
+urn:cite2:hmt:vbmarkers.v1:140r_1|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.5503,0.2745,0.03869,0.03354|urn:cts:greekLit:tlg0012.tlg001.msB_140r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.509
+urn:cite2:hmt:vbmarkers.v1:140r_2|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.6332,0.2948,0.06909,0.03060|urn:cts:greekLit:tlg0012.tlg001.msB_140r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.510
+urn:cite2:hmt:vbmarkers.v1:140r_3|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.5794,0.3548,0.03371,0.02736|urn:cts:greekLit:tlg0012.tlg001.msB_140r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.513
+urn:cite2:hmt:vbmarkers.v1:140r_4|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.5219,0.3910,0.06688,0.02942|urn:cts:greekLit:tlg0012.tlg001.msB_140r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.515
+urn:cite2:hmt:vbmarkers.v1:140r_5|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.5088,0.4604,0.03500,0.03295|urn:cts:greekLit:tlg0012.tlg001.msB_140r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.519
+urn:cite2:hmt:vbmarkers.v1:140r_6|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.6479,0.5175,0.05324,0.02648|urn:cts:greekLit:tlg0012.tlg001.msB_140r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.522
+urn:cite2:hmt:vbmarkers.v1:140r_7|<num value="16">ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.5626,0.5363,0.03482,0.03001|urn:cts:greekLit:tlg0012.tlg001.msB_140r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.523
+urn:cite2:hmt:vbmarkers.v1:140r_8|<num value="17">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_139v_140r@0.6426,0.5525,0.01676,0.03030|urn:cts:greekLit:tlg0012.tlg001.msB_140r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.524
+ 
+urn:cite2:hmt:vbmarkers.v1:140v_1|<num value="1">α</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.2570,0.2513,0.04164,0.03387|urn:cts:greekLit:tlg0012.tlg001.msB_140v_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.532
+urn:cite2:hmt:vbmarkers.v1:140v_2|<num value="2">β</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.2146,0.2986,0.04679,0.03327|urn:cts:greekLit:tlg0012.tlg001.msB_140v_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.534
+urn:cite2:hmt:vbmarkers.v1:140v_3|<num value="3">γ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.2249,0.3381,0.02413,0.03238|urn:cts:greekLit:tlg0012.tlg001.msB_140v_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.536
+urn:cite2:hmt:vbmarkers.v1:140v_4|<num value="4">δ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.3782,0.3776,0.01861,0.02763|urn:cts:greekLit:tlg0012.tlg001.msB_140v_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.538
+urn:cite2:hmt:vbmarkers.v1:140v_5|<num value="5">ε</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.3016,0.4887,0.03979,0.02644|urn:cts:greekLit:tlg0012.tlg001.msB_140v_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.544
+urn:cite2:hmt:vbmarkers.v1:140v_6|<num value="6">ς</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.3154,0.5235,0.03371,0.02644|urn:cts:greekLit:tlg0012.tlg001.msB_140v_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.546
+urn:cite2:hmt:vbmarkers.v1:140v_7|<num value="7">ζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.3101,0.5431,0.04716,0.02704|urn:cts:greekLit:tlg0012.tlg001.msB_140v_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.547
+ 
+urn:cite2:hmt:vbmarkers.v1:141r_1|<num value="8">η</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.4952,0.2549,0.02966,0.03506|urn:cts:greekLit:tlg0012.tlg001.msB_141r_1|urn:cts:greekLit:tlg0012.tlg001.msB:10.556
+urn:cite2:hmt:vbmarkers.v1:141r_2|<num value="9">θ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.4983,0.3191,0.04385,0.02733|urn:cts:greekLit:tlg0012.tlg001.msB_141r_2|urn:cts:greekLit:tlg0012.tlg001.msB:10.559
+urn:cite2:hmt:vbmarkers.v1:141r_3|<num value="10">ι</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.6896,0.3387,0.03703,0.02644|urn:cts:greekLit:tlg0012.tlg001.msB_141r_3|urn:cts:greekLit:tlg0012.tlg001.msB:10.560
+urn:cite2:hmt:vbmarkers.v1:141r_4|<num value="11">ια</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.5197,0.3595,0.08125,0.02644|urn:cts:greekLit:tlg0012.tlg001.msB_141r_4|urn:cts:greekLit:tlg0012.tlg001.msB:10.561
+urn:cite2:hmt:vbmarkers.v1:141r_5|<num value="12">ιβ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.6325,0.3577,0.04679,0.02704|urn:cts:greekLit:tlg0012.tlg001.msB_141r_5|urn:cts:greekLit:tlg0012.tlg001.msB:10.561
+urn:cite2:hmt:vbmarkers.v1:141r_6|<num value="13">ιγ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.5337,0.3791,0.05158,0.02555|urn:cts:greekLit:tlg0012.tlg001.msB_141r_6|urn:cts:greekLit:tlg0012.tlg001.msB:10.562
+urn:cite2:hmt:vbmarkers.v1:141r_7|<num value="14">ιδ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.5464,0.4159,0.04053,0.02614|urn:cts:greekLit:tlg0012.tlg001.msB_141r_7|urn:cts:greekLit:tlg0012.tlg001.msB:10.564
+urn:cite2:hmt:vbmarkers.v1:141r_8|<num value="15">ιε</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.6264,0.4875,0.05877,0.02763|urn:cts:greekLit:tlg0012.tlg001.msB_141r_8|urn:cts:greekLit:tlg0012.tlg001.msB:10.568
+urn:cite2:hmt:vbmarkers.v1:141r_9|<num value="16">ις</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.5875,0.5431,0.02561,0.03030|urn:cts:greekLit:tlg0012.tlg001.msB_141r_9|urn:cts:greekLit:tlg0012.tlg001.msB:10.571
+urn:cite2:hmt:vbmarkers.v1:141r_10|<num value="17">ιζ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.4998,0.5832,0.05048,0.02644|urn:cts:greekLit:tlg0012.tlg001.msB_141r_10|urn:cts:greekLit:tlg0012.tlg001.msB:10.573
+urn:cite2:hmt:vbmarkers.v1:141r_11|<num value="18">ιη</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.5339,0.6569,0.06614,0.02793|urn:cts:greekLit:tlg0012.tlg001.msB_141r_11|urn:cts:greekLit:tlg0012.tlg001.msB:10.577
+urn:cite2:hmt:vbmarkers.v1:141r_12|<num value="19">ιθ</num>|urn:cite2:hmt:vbbifolio.v1:vb_140v_141r@0.4994,0.6762,0.04219,0.02763|urn:cts:greekLit:tlg0012.tlg001.msB_141r_12|urn:cts:greekLit:tlg0012.tlg001.msB:10.578
 
-urn:cite2:hmt:vbmarkers.v1:132r_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
-
-urn:cite2:hmt:vbmarkers.v1:132v_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
-
-urn:cite2:hmt:vbmarkers.v1:133r_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
-
-urn:cite2:hmt:vbmarkers.v1:133v_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
-
-urn:cite2:hmt:vbmarkers.v1:133v_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
-
-urn:cite2:hmt:vbmarkers.v1:134r_1|<num value="1">α</num>||urn:cts:greekLit:tlg0012.tlg001.msB:10.
